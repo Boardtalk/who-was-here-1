@@ -1,5 +1,5 @@
 # who-was-here
-Extension phpBB3.1 - Nv who was here?
+Extension phpBB 3.3.x - Nv who was here?
 
 # Installation:
 Copy the entire contents of the repository to ext/bb3mobi/washere/
